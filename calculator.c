@@ -5,7 +5,7 @@ void main(){
     scanf("%d %d %c",&a,&b,&op);
     switch(op){
         case '+':
-        printf("Sum=%d",a+b);
+        printf("ADDITON=%d",a+b);
         break;
         case '-':
         printf("Diff=%d",a-b);
