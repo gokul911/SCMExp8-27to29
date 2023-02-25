@@ -8,7 +8,9 @@ void main(){
         printf("ADDITON=%d",a+b);
         break;
         case '-':
-        printf("Difference done by Ojasva=%d",a-b);
+        printf("Diff=%d",a-b);
+        printf("Subtraction=%d",a-b);
+
         break;
     }
 }
