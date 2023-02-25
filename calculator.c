@@ -8,7 +8,7 @@ void main(){
         printf("Sum=%d",a+b);
         break;
         case '-':
-        printf("Diff=%d",a-b);
+        printf("Difference=%d",a-b);
         break;
     }
 }
